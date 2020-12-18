@@ -1,0 +1,8 @@
+1234 - Ahmet Aydýn - 1991 - Erkek - 1234 - Ýstanbul - Film - Deneyim yok
+123456 - Ayten Aydýn - 1993 - Kadýn - 123456 - Ýstanbul - Tiyatro - Deneyim yok
+1234567 - Ayþe Aydýn - 1994 - Kadýn - 1234567 - Ýstanbul - Reklam - Reklam
+12345678 - Gül Aydýn - 1995 - Kadýn - 12345678 - Ýstanbul - Müzik Klibi - Müzik Klibi
+444444 - mm öö - 1988 - Erkek - 2222 - malatya - Film - Film
+5555 - mehmet yýlmaz - 1990 - Kadýn - 5555 - malatya - Dizi - Dizi
+121222 - 212 - 2112 - Erkek - 12 - 12 - Dizi - Dizi
+121222 - 212 - 2112 - Erkek - 12 - 12 - Dizi - Dizi
